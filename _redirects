@@ -1,15 +1,23 @@
+# Admin
 /edit            https://github.com/rkparsons/url-shortener/edit/master/_redirects
 
+# Social
 /fb              https://www.facebook.com/sinelangrec
 /insta           https://www.instagram.com/sinelangrec
 /twitter         https://twitter.com/sinelangrec
 
+# Artists
 /awekid          https://sinelanguage.net/#/artists/awekid
 /clyde           https://sinelanguage.net/#/artists/clyde
 /ose             https://sinelanguage.net/#/artists/ose
 
+# Releases
 /diode           https://open.spotify.com/album/5aghzXz70dYdqQidMAlmCF?si=eqq-S6OWRL6VbBaMmpDJKQ
 /tides           https://open.spotify.com/album/17TRkXmyNm9Suc99YXBqpz?si=u7qhMIDOTk200fCLbZZc2g
 /bahamas         https://open.spotify.com/album/41DATpY1R4mbKXS49SwKkM?si=L3QhSiPwQN2xHsemAvkr6A
 
+# Playlists
+/selections      https://open.spotify.com/playlist/0HWzUUBKd9SIC9y7FfNiUY?si=jekLFzF7R6iJVKEIjd-UIw
+
+# Default
 /*               https://sinelanguage.net
